@@ -1,0 +1,12 @@
+{
+    "expo": {
+     "name": "Insta clone",
+     "icon": "./insta.png",
+     "version": "1.0.0",
+     "slug": "com-clone-insta",
+     "android": {
+       "package": "com.clone.insta",
+       "versionCode": 1
+     }
+    }
+  }
